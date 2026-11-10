@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pytest / Playwright artifacts
+.pytest_cache/
+allure-results/
+allure-report/
+reports/
+test-results/
+videos/
+traces/
+screenshots/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
